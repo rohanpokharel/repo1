@@ -1,10 +1,9 @@
 
-body{
-   
+ .container{
     background-image: url("http://www.pptbackgrounds.net/uploads/the-starry-sky-backgrounds-wallpapers.jpg");
-    height: 150vh;
-    width: 150vw;
-    overflow: hidden;
+    height: 120vh;
+   width: 120vw;
+        position: relative;
 }
 
 .sun{
